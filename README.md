@@ -1,8 +1,14 @@
+ABOUT ME 
+
+summary
 - 👋 Hi, I’m @amirtha-coder
 - 👀 I’m interested in dancing ,coding and healthcare.
 - 🌱 I’m currently studying in a University of Birmingham's Coding Bootcamp
-- 💞️ I’m looking to collaborate on anyone interested in pioneering new tech into the health/education sector   
+- 💞️ I’m looking to collaborate with anyone interested in pioneering new tech into the health/education sector   
 - 📫 How to reach me via my github/linkedin profile
+
+
+
 
  ### Thank you for clicking on to my github account - have a wonderful day 🥰 !
 
