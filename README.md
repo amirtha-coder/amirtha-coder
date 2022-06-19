@@ -1,6 +1,6 @@
 # ABOUT ME 
 
-![](https://preview.redd.it/mw4y58i658981.gif?format=mp4&s=5402a97dc6bcfca29eb780e174b85256912e300c)
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## Summary 
 
