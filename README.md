@@ -1,6 +1,6 @@
 # ABOUT ME 
+![![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://github.com/user/banner.png)
 
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## Summary 
 
