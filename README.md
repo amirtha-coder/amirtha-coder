@@ -22,7 +22,7 @@
 <br>
 
 ![Amirtha's github stats](https://github-readme-stats.vercel.app/api?username=amirtha-coder)
-![Snake animation](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
 
 
  _**Thank you for clicking on to my github account - have a wonderful day 🥰 !**_
