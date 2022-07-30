@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @amirtha-coder 
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
 <br>
 👀 I’m interested in dancing ,coding and healthcare.\
