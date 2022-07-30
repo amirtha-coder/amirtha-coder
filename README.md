@@ -3,6 +3,13 @@
 ![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
 <br>
 
+👀 I’m interested in dancing ,coding and healthcare.\
+🌱 I’m currently studying in a University of Birmingham's Coding Bootcamp\
+💞️ I’m looking to collaborate with anyone interested in pioneering new tech into the health/education sector\
+📫 How to reach me via my github/linkedin profile
+### I have always loved computers, and it has been a fascination of mine for life; I finally decided to explore my adoration for coding by starting. 🤓 😁 I am passionate about teaching, and I hope that my GitHub repositories will show the expanse of all the knowledge that I can use to educate others.
+
+
 # :wrench: Languages and Technologies
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -18,13 +25,13 @@
 
 <br>
 
+<details> 
+
+<summary>Github Stats</summary> 
+
 ![Amirtha's github stats](https://github-readme-stats.vercel.app/api?username=amirtha-coder)
 
-👀 I’m interested in dancing ,coding and healthcare.\
-🌱 I’m currently studying in a University of Birmingham's Coding Bootcamp\
-💞️ I’m looking to collaborate with anyone interested in pioneering new tech into the health/education sector\
-📫 How to reach me via my github/linkedin profile
-### I have always loved computers, and it has been a fascination of mine for life; I finally decided to explore my adoration for coding by starting. 🤓 😁 I am passionate about teaching, and I hope that my GitHub repositories will show the expanse of all the knowledge that I can use to educate others.
+</details>
 
 
  _**Thank you for clicking on to my github account - have a wonderful day 🥰 !**_
