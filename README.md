@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @amirtha-coder 
+![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
 👀 I’m interested in dancing ,coding and healthcare.\
 🌱 I’m currently studying in a University of Birmingham's Coding Bootcamp\
 💞️ I’m looking to collaborate with anyone interested in pioneering new tech into the health/education sector\
@@ -22,7 +23,7 @@
 <br>
 
 ![Amirtha's github stats](https://github-readme-stats.vercel.app/api?username=amirtha-coder)
-![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
+
 
 
  _**Thank you for clicking on to my github account - have a wonderful day 🥰 !**_
