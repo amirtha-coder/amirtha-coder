@@ -9,7 +9,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://komarev.com/ghpvc/?username=amirtha-coder&color=green)
+
 # 👋 Hi, I’m @amirtha-coder 
 
 ![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
