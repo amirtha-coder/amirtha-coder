@@ -35,7 +35,7 @@
 </details>
 
 
- _**Thanks for viewing my profile !**_
+ _**Thank you for viewing my profile !**_
 
 
 <!---
