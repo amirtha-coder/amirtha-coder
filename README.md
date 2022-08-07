@@ -20,7 +20,8 @@
 
 <br>
 💞️ I’m looking to collaborate with anyone interested in pioneering new tech into the health/education sector\
-📫 How to reach me via my [linkedin](https://www.linkedin.com/in/a-m-9518071ab/)
+
+📫 How to reach me via my  [Linkedin](https://www.linkedin.com/in/a-m-9518071ab/)
 
 
 <br>
