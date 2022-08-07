@@ -35,7 +35,7 @@
 </details>
 
 
- _**Thank you for clicking on to my github account - have a wonderful day 🥰 !**_
+ _**Thanks for viewing my profile !**_
 
 
 <!---
